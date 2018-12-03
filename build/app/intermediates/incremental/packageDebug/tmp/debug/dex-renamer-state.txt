@@ -1,0 +1,4 @@
+#Thu Nov 22 13:35:39 BDT 2018
+base.0=C\:\\Users\\Ripon\\Desktop\\Flutter_Apps\\my flutter apps\\pizza\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
